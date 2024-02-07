@@ -32,6 +32,7 @@ I founded Jpex Finance, an on-chain NFTs option trading platform and was previou
 [pegbet]: https://github.com/i-m-aditya/PegBet
 [top-tweets]: https://github.com/i-m-aditya/top-tweets
 [evm-from-scratch]: https://github.com/i-m-aditya/evm-from-scratch
+[bittorent]: https://github.com/i-m-aditya/bittorent-rust
 
  ##  Socials
 - Twitter: <a href="https://twitter.com/_0xsensei_" >@0xsensei</a>
