@@ -1,6 +1,6 @@
 # Hola Amigo👋
 
-Lead developer at Coinswitch by day ☼ and open source contributor to rust 🦀 ecosystem by night ☾.
+I am a lead developer at Coinswitch by day ☼ and an open-source contributor to the rust 🦀 ecosystem by night ☾.
 
 I founded Jpex Finance, an on-chain NFTs option trading platform and was previously part of Polynomial Finance.
 
