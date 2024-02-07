@@ -37,4 +37,5 @@ I founded Jpex Finance, on-chain NFTs option trading platform and was previously
 
  ##  Socials
 Twitter: <a href="https://twitter.com/_0xsensei_" >@0xsensei</a>
+
 Telegram: sensei_btc
