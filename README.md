@@ -36,6 +36,5 @@ I founded Jpex Finance, on-chain NFTs option trading platform and was previously
 [evm-from-scratch]: https://github.com/i-m-aditya/evm-from-scratch
 
  ##  Socials
-Twitter: <a href="https://twitter.com/_0xsensei_" >@0xsensei</a>
-
-Telegram: sensei_btc
+- Twitter: <a href="https://twitter.com/_0xsensei_" >@0xsensei</a>
+- Telegram: sensei_btc
