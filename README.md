@@ -2,7 +2,7 @@
 
 I am a lead developer at Coinswitch by day ☼ and an open-source contributor to the rust 🦀 ecosystem by night ☾.
 
-I founded Jpex Finance, an on-chain NFTs option trading platform and was previously part of Polynomial Finance.
+I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform and was previously part of Polynomial Finance.
 
 #### Contributions
 
@@ -33,6 +33,7 @@ I founded Jpex Finance, an on-chain NFTs option trading platform and was previou
 [top-tweets]: https://github.com/i-m-aditya/top-tweets
 [evm-from-scratch]: https://github.com/i-m-aditya/evm-from-scratch
 [bittorent]: https://github.com/i-m-aditya/bittorent-rust
+[jpex-t]: https://twitter.com/jpexfinance
 
  ##  Socials
 - Twitter: <a href="https://twitter.com/_0xsensei_" >@0xsensei</a>
