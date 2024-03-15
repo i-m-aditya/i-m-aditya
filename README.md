@@ -10,6 +10,7 @@ I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform and w
 - [foundry][foundry] (contributor)
 - [backpack][backpack] (contributor)
 - [gas-optimizations][optimizations] (contributor)
+- [succinct labs][sp1]
 
 #### Open Source Projects
 
@@ -19,6 +20,7 @@ I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform and w
 - [lil-bittorent][bittorent]
 - [pegbet][pegbet]
 - [evm-from-scratch][evm-from-scratch]
+
   
 
 
@@ -35,6 +37,7 @@ I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform and w
 [bittorent]: https://github.com/i-m-aditya/bittorent-rust
 [jpex-t]: https://twitter.com/jpexfinance
 [coinswitch]: https://coinswitch.co/
+[sp1]: https://github.com/succinctlabs/sp1/pull/273
 
  ##  Socials
 - Twitter: <a href="https://twitter.com/_0xsensei_" >@0xsensei</a>
