@@ -1,4 +1,4 @@
-# Hola Amigo👋
+<h1 align="center">Hey 👋, I'm Aditya</h1>
 
 I am a lead developer at [Coinswitch][coinswitch] by day ☼ and an open-source contributor to the rust 🦀 ecosystem by night ☾.
 
