@@ -15,16 +15,19 @@ I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform and w
 #### Open Source Projects
 
 - [jpex-smart-contracts][jpex-sc] 
-- [jpex-frontend][jpex-f] 
+- [jpex-frontend][jpex-f]
+- [scroll-reth][scroll-reth]
 - [top-tweets][top-tweets] 
 - [lil-bittorent][bittorent]
 - [pegbet][pegbet]
 - [evm-from-scratch][evm-from-scratch]
 
+
   
 
 
 
+[scroll-reth]: https://github.com/i-m-aditya/scroll-reth
 [reth]: https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+is%3Aclosed+author%3Ai-m-aditya
 [foundry]: https://github.com/foundry-rs/foundry/pulls?q=is%3Apr+author%3Ai-m-aditya+is%3Aclosed
 [backpack]: https://github.com/coral-xyz/backpack/pulls?q=is%3Apr+author%3Ai-m-aditya+is%3Aclosed
