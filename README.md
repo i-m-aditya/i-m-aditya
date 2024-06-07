@@ -23,8 +23,10 @@ I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform and w
 - [evm-from-scratch][evm-from-scratch]
 
 
-  
 
+ ##  Socials
+- Twitter: <a href="https://twitter.com/_0xsensei_" >@0xsensei</a>
+- Telegram: [@sensei_btc][sensei_btc]
 
 
 [scroll-reth]: https://github.com/i-m-aditya/scroll-reth
@@ -41,7 +43,4 @@ I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform and w
 [jpex-t]: https://twitter.com/jpexfinance
 [coinswitch]: https://coinswitch.co/
 [sp1]: https://github.com/succinctlabs/sp1/pull/273
-
- ##  Socials
-- Twitter: <a href="https://twitter.com/_0xsensei_" >@0xsensei</a>
-- Telegram: sensei_btc
+[sensei_btc]: https://twitter.com/_0xsensei_
