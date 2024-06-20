@@ -8,7 +8,6 @@ I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform and w
 
 - [reth][reth] (contributor)
 - [foundry][foundry] (contributor)
-- [backpack][backpack] (contributor)
 - [gas-optimizations][optimizations] (contributor)
 - [succinct labs][sp1] (contributor)
 
