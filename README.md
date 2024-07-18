@@ -42,4 +42,4 @@ I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform and w
 [jpex-t]: https://twitter.com/jpexfinance
 [coinswitch]: https://coinswitch.co/
 [sp1]: https://github.com/succinctlabs/sp1/pull/273
-[sensei_btc]: https://twitter.com/_0xsensei_
+[sensei_btc]: https://t.me/sensei_btc
