@@ -10,12 +10,12 @@ I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform and w
 - [foundry][foundry] (contributor)
 - [gas-optimizations][optimizations] (contributor)
 - [succinct labs][sp1] (contributor)
+- [scroll-reth][scroll-reth] (maintainer)
 
 #### Open Source Projects
 
 - [jpex-smart-contracts][jpex-sc] 
 - [jpex-frontend][jpex-f]
-- [scroll-reth][scroll-reth]
 - [top-tweets][top-tweets] 
 - [lil-bittorent][bittorent]
 - [pegbet][pegbet]
