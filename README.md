@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Aditya</h1>
 
-I am a lead developer at [Coinswitch][coinswitch] by day ☼ and an open-source contributor to the rust 🦀 ecosystem by night ☾.
-
-I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform and was previously part of Polynomial Finance.
+I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform.
 
 #### Contributions
 
