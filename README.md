@@ -17,6 +17,7 @@ I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform.
 - [top-tweets][top-tweets] 
 - [lil-bittorent][bittorent]
 - [pegbet][pegbet]
+- [block-tracer][block-tracer]
 
 
 
@@ -40,3 +41,4 @@ I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform.
 [coinswitch]: https://coinswitch.co/
 [sp1]: https://github.com/succinctlabs/sp1/pull/273
 [sensei_btc]: https://t.me/sensei_btc
+[block-tracer]: https://github.com/i-m-aditya/block-tracer
