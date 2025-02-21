@@ -17,7 +17,6 @@ I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform.
 - [top-tweets][top-tweets] 
 - [lil-bittorent][bittorent]
 - [pegbet][pegbet]
-- [evm-from-scratch][evm-from-scratch]
 
 
 
