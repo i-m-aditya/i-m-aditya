@@ -12,6 +12,7 @@ I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform.
 
 #### Open Source Projects
 
+- [xplode-engine][xplode-engine]
 - [jpex-smart-contracts][jpex-sc] 
 - [jpex-frontend][jpex-f]
 - [top-tweets][top-tweets] 
@@ -31,6 +32,7 @@ I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform.
 [backpack]: https://github.com/coral-xyz/backpack/pulls?q=is%3Apr+author%3Ai-m-aditya+is%3Aclosed
 [optimizations]: https://github.com/kadenzipfel/gas-optimizations/pull/20
 [jpex-sc]: https://github.com/i-m-aditya/jpex-contracts
+[xplode-engine]: https://github.com/xplodegame/xplode-engine
 [jpex-f]: https://github.com/i-m-aditya/jpex-app
 [pegbet]: https://github.com/i-m-aditya/PegBet
 [top-tweets]: https://github.com/i-m-aditya/top-tweets
