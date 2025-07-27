@@ -25,7 +25,6 @@ I founded [Jpex Finance][jpex-t], an on-chain NFTs option trading platform.
 - Twitter: <a href="https://twitter.com/_0xsensei_" >@0xsensei</a>
 - Telegram: [@sensei_btc][sensei_btc]
 
-
 [scroll-reth]: https://github.com/i-m-aditya/scroll-reth
 [reth]: https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+is%3Aclosed+author%3Ai-m-aditya
 [foundry]: https://github.com/foundry-rs/foundry/pulls?q=is%3Apr+author%3Ai-m-aditya+is%3Aclosed
